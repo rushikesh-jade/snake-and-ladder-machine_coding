@@ -76,4 +76,5 @@ public class SnakeAndLadderService {
             playersLatestHistory.put(entity.getPlayers().get(i), 0);
         }
     }
+
 }
